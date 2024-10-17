@@ -4,5 +4,11 @@ A ResNet model is employed to encode the images, while LSTM cells with an attent
 
 # Model
 
-![image](https://github.com/user-attachments/assets/b73f8c97-3ec8-4d2f-a0cf-f87485e48577)
+![image](https://github.com/user-attachments/assets/9c5b190b-fbec-48a9-93e4-3d452747512f)
+
+# results
+
+![image](https://github.com/user-attachments/assets/55c6f16f-2539-4b8f-ba63-2dfb940a08e6)
+
+
 
